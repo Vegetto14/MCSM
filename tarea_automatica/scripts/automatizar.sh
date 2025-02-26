@@ -11,8 +11,9 @@ echo "Tarea 4: actualizar repositorio">> lista_tareas.txt
 
 chmod 444 lista_tareas.txt
 
-echo "el archivo lista_tareas.txt ha sido creada y configurado como solo lectura"
 cat "lista_tareas.txt"
 
+
 fi
+
 
