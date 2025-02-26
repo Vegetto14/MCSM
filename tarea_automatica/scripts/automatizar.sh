@@ -9,7 +9,7 @@ echo "Tarea 2: agregar contenido" >> lista_tareas.txt
 echo "Tarea 3: Control de permisos">> lista_tareas.txt
 echo "Tarea 4: actualizar repositorio">> lista_tareas.txt
 
-chmod444lista_tareas.txt
+chmod 444 lista_tareas.txt
 
 echo "el archivo lista_tareas.txt ha sido creada y configurado como solo lectura"
 cat "lista_tareas.txt"
